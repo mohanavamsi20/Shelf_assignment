@@ -52,22 +52,6 @@ Before you begin, make sure you have Docker installed on your system.Make sure y
 - Analyze API: http://localhost:8000/analyze
    - Use this API to get the shape of products on a shelf.
 
-Sure, I've added a section called "Example Shelf" to your README file. Here's the updated README:
-
----
-
-# Shelf Identification Project
-
-## Overview
-
-The "Shelf Identification" project is a Django-based application that provides two APIs:
-
-1. **Default Page**: http://localhost:8000/
-   - This is the default landing page for the project.
-
-2. **Analyze API**: http://localhost:8000/analyze
-   - This API is used to get the shape of products on a shelf.
-
 ## Example Shelf
 
 ### Using Example Data
